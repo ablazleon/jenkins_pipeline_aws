@@ -41,5 +41,8 @@ Working Pipeline
 
 ### b. System architecture
 ### c. Steps
+
+#### A. AWS steps
+
 ## 2. Usage
 ## 3. Contributing
